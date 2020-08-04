@@ -13,6 +13,7 @@ namespace Binary
         {
             Console.Write("Write a number: ");
             Console.WriteLine("");
+            Console.WriteLine("");
             int Num = int.Parse(Console.ReadLine());
             int Rem;
             Stack Result = new Stack();

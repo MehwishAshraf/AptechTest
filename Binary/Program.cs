@@ -12,7 +12,7 @@ namespace Binary
         static void Main(string[] args)
         {
             Console.Write("Write a number: ");
-            Console.WriteLine("");
+            //deleted
             int Num = int.Parse(Console.ReadLine());
             int Rem;
             Stack Result = new Stack();
